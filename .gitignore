@@ -1,0 +1,6 @@
+__pycache__/
+*.so
+slurm*out
+slurm*err
+structure.o*
+structure.e*

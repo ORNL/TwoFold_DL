@@ -1,0 +1,5 @@
+slurm-*.*
+finetune.*
+logs_*
+results_*
+*cache*
